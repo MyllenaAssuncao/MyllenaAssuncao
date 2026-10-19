@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🏛️ Myllena Sousa
+# 🏛️ Myllena Assunção
 
 ### `Desenvolvedora de Software Júnior`
 
